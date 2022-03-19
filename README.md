@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yogesh kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center"> I'm a Full Stack Web Developer skilled in MERN stack. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.I focus on writing clean, elegant and efficient code. Highly skilled in collaboration, decision-making, and Data Structures & Algorithms.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsyogihr13&label=Profile%20views&color=0e75b6&style=flat" alt="itsyogihr13" /> </p>
 
