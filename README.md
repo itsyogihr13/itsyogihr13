@@ -9,10 +9,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/yogesh-bhardwaj-60482721b/"><img src="https://img.shields.io/badge/duwesh-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:bhardwajy621@gmail.com"><img src="https://img.shields.io/badge/-duwesh.kr@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/itsyogihr13/"><img src="https://img.shields.io/badge/-@dkduwesh_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.twitter.com/itsyogihr13"><img src="https://img.shields.io/badge/-@DuweshKumar_-E4405F?style=flat&logo=Twitter&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/yogesh-bhardwaj-60482721b/"><img src="https://img.shields.io/badge/yogesh-bhardwaj-60482721b?style=flat&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:bhardwajy621@gmail.com"><img src="https://img.shields.io/badge/-bhardwajy621@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/itsyogihr13/"><img src="https://img.shields.io/badge/-@itsyogihr13-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.twitter.com/itsyogihr13"><img src="https://img.shields.io/badge/-@itsyogihr13_-E4405F?style=flat&logo=Twitter&logoColor=white"/></a>
 
 </p>
 
