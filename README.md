@@ -1,9 +1,21 @@
+<a href="#"><img width="100%" height="auto" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" height="175px"/></a>
+
 <h1 align="center">Hi 👋, I'm Yogesh kumar</h1>
 <h3 align="center"> I'm a Full Stack Web Developer skilled in MERN stack. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.I focus on writing clean, elegant and efficient code. Highly skilled in collaboration, decision-making, and Data Structures & Algorithms.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsyogihr13&label=Profile%20views&color=0e75b6&style=flat" alt="itsyogihr13" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsyogihr13" alt="itsyogihr13" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsyogihr13" alt="itsyogihr13" /></a> </p> -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/77038954/133616013-7488fc92-9b6d-4df9-b2a3-88ba9636d49e.png" width="30%"src="" alt="animatation" />
+</div>
+
+<div align="center">
+   <p> 🌱 I'm on track for learning more about Full Stack Web Development</p>
+   <p> 💬 Ask me about ReactJS , Javascript , DS-Algo , Node Js , Express , MangoDB.</p>
+   <p> 📫 How to reach me duwesh.kr@gmail.com!</p>
+   <p> 🥅 2022 Goals : Learning new things and contribute more</p>
+</div>
 
 - 🌱 I’m currently learning **Mern stack and Data structure**
 
