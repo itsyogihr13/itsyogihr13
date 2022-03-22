@@ -13,7 +13,7 @@
 <div align="center">
    <p> 🌱 I'm on track for learning more about Full Stack Web Development</p>
    <p> 💬 Ask me about ReactJS , Javascript , DS-Algo , Node Js , Express , MangoDB.</p>
-   <p> 📫 How to reach me duwesh.kr@gmail.com!</p>
+   <p> 📫 How to reach me bhardwajy621@gmail.com!</p>
    <p> 🥅 2022 Goals : Learning new things and contribute more</p>
 </div>
 
