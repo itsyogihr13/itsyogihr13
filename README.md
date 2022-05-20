@@ -72,7 +72,7 @@ I'm a Full Stack Web Developer skilled in MERN stack. My passion for software li
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>🐱My Github stats:</b></i> 
 </p>
 
-<p align="left" >
+<p align="center" >
 <img src="http://github-readme-streak-stats.herokuapp.com?user=monumishra326&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727"  />
 </p>
  
