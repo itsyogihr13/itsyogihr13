@@ -32,9 +32,6 @@ I'm a Full Stack Web Developer skilled in MERN stack. My passion for software li
   <a href="https://www.linkedin.com/in/yogesh-bhardwaj-60482721b/">
     <img align="left" src="https://raw.githubusercontent.com/shivam-singh-au17/shivam-singh-au17/5604a09025392c73fc35b8589807b82c3b585d17/Images/linked-in-alt.svg" width="28px" />
   </a>
-  
-</p>
-
 <img src ="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/imhd.gif?raw=true" align="right" width="260" height="260" />
 
 <br>
